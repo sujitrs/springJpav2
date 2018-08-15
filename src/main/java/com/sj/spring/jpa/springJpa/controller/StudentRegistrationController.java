@@ -24,6 +24,7 @@ class StudentRegistrationController {
             return studentRegistrationRepository.save(studentRegistration);
         /*}
         else
+        https://dzone.com/articles/create-your-own-constraint-with-bean-validation-20
             return "";*/
     }
 }
