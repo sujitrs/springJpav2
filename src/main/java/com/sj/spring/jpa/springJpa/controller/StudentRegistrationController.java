@@ -1,4 +1,4 @@
-package com.sj.spring.jpa.springJpa.com.sj.spring.jpa.springJpa.controller;
+package com.sj.spring.jpa.springJpa.controller;
 import com.sj.spring.jpa.springJpa.model.FirstLoginFlagEnum;
 import com.sj.spring.jpa.springJpa.model.UserMaster;
 import com.sj.spring.jpa.springJpa.model.UserStatusEnum;
